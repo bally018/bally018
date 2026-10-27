@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Bee Rcm">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.6" stop-color="#17120a"/>
+      <stop offset="1" stop-color="#2a1c00"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffd23f"/>
+      <stop offset="1" stop-color="#ff8c00"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f7b500" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#f7b500" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="bodyClip"><ellipse cx="0" cy="0" rx="28" ry="20"/></clipPath>
+  </defs>
+
+  <rect width="900" height="260" rx="14" fill="url(#bg)"/>
+  <circle cx="700" cy="100" r="130" fill="url(#glow)">
+    <animate attributeName="r" values="120;145;120" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <g fill="none" stroke="#f7b500" stroke-opacity="0.12" stroke-width="2">
+    <polygon points="60,40 90,22 120,40 120,76 90,94 60,76"/>
+    <polygon points="120,76 150,58 180,76 180,112 150,130 120,112"/>
+    <polygon points="780,170 810,152 840,170 840,206 810,224 780,206"/>
+    <polygon points="840,206 870,188 900,206 900,242 870,260 840,242"/>
+  </g>
+
+  <text x="430" y="130" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="84" font-weight="800" letter-spacing="2" fill="url(#gold)">Bee Rcm
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <g font-family="'Courier New', Consolas, monospace" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle">
+    <text x="430" y="188" opacity="1">Desenvolvedor RedM &amp; FiveM
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.23;0.25;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="430" y="188" opacity="0">Scripts e sistemas em Lua
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.27;0.48;0.5;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="430" y="188" opacity="0">Frameworks RSG Core &amp; vRP
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.52;0.73;0.75;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+    <text x="430" y="188" opacity="0">Performance, qualidade e imersão
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.77;0.98;1" dur="12s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <rect x="280" y="212" width="300" height="3" rx="1.5" fill="url(#gold)">
+    <animate attributeName="width" values="40;300;40" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="430;280;430" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(740,110) scale(1.7)">
+    <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0;0,-8;0,0" dur="2.4s" repeatCount="indefinite"/>
+    <g fill="#ffffff" fill-opacity="0.55" stroke="#bfe6ff" stroke-opacity="0.6">
+      <ellipse cx="-4" cy="-24" rx="14" ry="22" transform="rotate(-18 -4 -4)">
+        <animateTransform attributeName="transform" type="rotate" values="-30 -4 -4;-6 -4 -4;-30 -4 -4" dur="0.22s" repeatCount="indefinite"/>
+      </ellipse>
+      <ellipse cx="10" cy="-22" rx="12" ry="19" transform="rotate(10 10 -4)">
+        <animateTransform attributeName="transform" type="rotate" values="20 10 -4;-2 10 -4;20 10 -4" dur="0.22s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <ellipse cx="0" cy="0" rx="28" ry="20" fill="#f7b500"/>
+    <g clip-path="url(#bodyClip)" fill="#111">
+      <rect x="-14" y="-22" width="9" height="44"/>
+      <rect x="4" y="-22" width="9" height="44"/>
+      <rect x="20" y="-22" width="9" height="44"/>
+    </g>
+    <polygon points="27,-4 40,0 27,4" fill="#111"/>
+    <circle cx="-32" cy="-2" r="13" fill="#1b1b1b" stroke="#f7b500" stroke-width="2"/>
+    <circle cx="-36" cy="-5" r="3.4" fill="#fff"/><circle cx="-35" cy="-5" r="1.5" fill="#111"/>
+    <circle cx="-27" cy="-5" r="3.4" fill="#fff"/><circle cx="-26" cy="-5" r="1.5" fill="#111"/>
+    <path d="M-36,4 Q-31,9 -26,4" stroke="#f7b500" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M-36,-13 Q-42,-26 -48,-24" stroke="#f7b500" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M-28,-14 Q-26,-28 -20,-28" stroke="#f7b500" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <circle cx="-48" cy="-24" r="2.4" fill="#f7b500"/><circle cx="-20" cy="-28" r="2.4" fill="#f7b500"/>
+  </g>
+</svg>
