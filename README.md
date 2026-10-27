@@ -1,4 +1,4 @@
-<h1 align="center">🐝 Abelha Rcm</h1>
+<h1 align="center">🐝 Bee Rcm</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor-RedM%20%26%20Lua-orange?style=for-the-badge" alt="Desenvolvedor RedM e Lua" />
@@ -18,7 +18,7 @@
 
 ## 👋 Sobre mim
 
-Oi! Eu sou o **Abelha Rcm** (bally018). Estou aprendendo a programar com foco em **servidores de RedM**: mexendo na base, entendendo como o `server.cfg` e o `rsg-core` funcionam, e criando/ajustando scripts em **Lua**.
+Oi! Eu sou o **Bee Rcm** (bally018). Estou aprendendo a programar com foco em **servidores de RedM**: mexendo na base, entendendo como o `server.cfg` e o `rsg-core` funcionam, e criando/ajustando scripts em **Lua**.
 
 - 🎯 Objetivo: montar e manter meu próprio servidor RedM
 - 📚 Estudando: Lua, estrutura de recursos (`fxmanifest.lua`), banco de dados e boas práticas
