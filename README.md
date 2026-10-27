@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:05070d,45:1b3a6b,100:f7b500&text=BEE%20RCM&fontSize=90&fontColor=ffd54a&stroke=ff8c00&strokeWidth=2&animation=twinkling&fontAlignY=38&desc=RedM%20%E2%80%A2%20FiveM%20%E2%80%A2%20Lua%20%E2%80%A2%20RSG%20Core%20%E2%80%A2%20vRP&descSize=22&descAlignY=60&descColor=ffffff" width="100%" alt="Bee Rcm" />
+<img src="header.svg" width="100%" alt="Bee Rcm - scripts RedM e FiveM otimizados" />
 
-<a href="https://github.com/bally018">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Desenvolvedor+de+servidores+RedM+%26+FiveM;Lua+%7C+RSG+Core+%7C+vRP;C%C3%B3digo+limpo%2C+performance+e+estabilidade" alt="Digitando..." />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&height=46&repeat=true&lines=Seu%20servidor%20RedM%20ou%20FiveM%20no%20pr%C3%B3ximo%20n%C3%ADvel;Menos%20lag.%20Mais%20jogadores.%20Mais%20estabilidade.;Scripts%20otimizados%20e%20c%C3%B3digo%20limpo%20em%20Lua;RSG%20Core%20%28RedM%29%20%7C%20vRP%20%28FiveM%29" alt="Seu servidor RedM ou FiveM no próximo nível" />
 
 <br/>
 
@@ -14,6 +12,7 @@
 <br/>
 <img src="https://img.shields.io/badge/RSG%20Core-RedM-8B0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/vRP-FiveM-1f6feb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scripts-Otimizados-22c55e?style=for-the-badge" />
 
 <br/><br/>
 
@@ -24,9 +23,67 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05070d,50:38bdf8,100:f7b500" width="100%" alt="" />
 
-## ⚡ Sobre
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1200&color=F7B500&center=true&vCenter=true&width=780&height=46&repeat=false&lines=%E2%9A%A1%20Scripts%20que%20deixam%20seu%20servidor%20leve" alt="⚡ Scripts que deixam seu servidor leve" />
+</div>
 
-Sou **Bee Rcm**, desenvolvedor de **servidores RedM e FiveM**. Crio e configuro recursos em **Lua** com os frameworks **RSG Core** (RedM) e **vRP** (FiveM), focado em estabilidade, organização e boa experiência para os jogadores.
+<br/>
+
+<div align="center">
+
+Eu não entrego só scripts que funcionam. Eu entrego scripts **otimizados**, pensados para consumir pouco do servidor, evitar lag e manter tudo estável mesmo com o servidor cheio.
+
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Otimizados</h3>
+      Código pensado para <b>baixo consumo</b>, sem loops pesados e sem desperdício. Seu servidor roda leve.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧼 Código limpo</h3>
+      Organizado e fácil de entender. Você consegue <b>manter e evoluir</b> o script depois.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Sob medida</h3>
+      Feito para o <b>seu servidor</b>, usando <b>RSG Core</b> (RedM) ou <b>vRP</b> (FiveM).
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Estável</h3>
+      <b>Testado antes da entrega</b>, com correção de bugs e ajustes quando precisar.
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05070d,50:38bdf8,100:f7b500" width="100%" alt="" />
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1200&color=F7B500&center=true&vCenter=true&width=780&height=46&repeat=false&lines=%F0%9F%93%A6%20O%20que%20eu%20entrego" alt="📦 O que eu entrego" />
+</div>
+
+- 📜 **Scripts personalizados** em Lua para RedM e FiveM
+- 🚀 **Otimização** de scripts que já existem e estão pesados ou travando
+- 🐞 **Correção de erros** e ajustes em recursos
+- 🧱 **Criação e configuração** de servidores RedM e FiveM
+- 🖥️ **Interfaces NUI** modernas com HTML, CSS e JavaScript
+- 🗄️ **Integração com MySQL**
+
+<div align="center">
+
+**💬 Conversa  →  🧩 Planejamento  →  💻 Desenvolvimento  →  ✅ Testes e entrega**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05070d,50:38bdf8,100:f7b500" width="100%" alt="" />
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1200&color=F7B500&center=true&vCenter=true&width=780&height=46&repeat=false&lines=%F0%9F%A7%A0%20Como%20eu%20penso%20o%20c%C3%B3digo" alt="🧠 Como eu penso o código" />
+</div>
 
 ```lua
 local BeeRcm = {
@@ -34,13 +91,20 @@ local BeeRcm = {
     plataformas = { "RedM", "FiveM" },
     frameworks  = { RedM = "RSG Core", FiveM = "vRP" },
     linguagem   = "Lua",
-    principios  = { "código limpo", "performance", "manutenção simples" },
+    entrega     = { "scripts otimizados", "código limpo", "estabilidade" },
 }
+
+-- Meta de todo script: resmon baixo, servidor leve e jogadores felizes.
+function BeeRcm.entregar(script)
+    return otimizado(script) and testado(script)
+end
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05070d,50:38bdf8,100:f7b500" width="100%" alt="" />
 
-## 🧰 Tecnologias
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1200&color=F7B500&center=true&vCenter=true&width=780&height=46&repeat=false&lines=%F0%9F%A7%B0%20Tecnologias" alt="🧰 Tecnologias" />
+</div>
 
 | Categoria | Tecnologias |
 |---|---|
@@ -53,7 +117,9 @@ local BeeRcm = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05070d,50:38bdf8,100:f7b500" width="100%" alt="" />
 
-## 📊 Estatísticas
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1200&color=F7B500&center=true&vCenter=true&width=780&height=46&repeat=false&lines=%F0%9F%93%8A%20Estat%C3%ADsticas" alt="📊 Estatísticas" />
+</div>
 
 <div align="center">
 
@@ -66,19 +132,27 @@ local BeeRcm = {
 
 </div>
 
-## 📫 Contato
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:05070d,50:38bdf8,100:f7b500" width="100%" alt="" />
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1200&color=F7B500&center=true&vCenter=true&width=780&height=46&repeat=false&lines=%F0%9F%9A%80%20Vamos%20tirar%20o%20seu%20servidor%20do%20papel%3F" alt="🚀 Vamos tirar o seu servidor do papel?" />
+</div>
+
+<div align="center">
+
+Precisa de um script novo, de um servidor configurado ou de otimizar o que já existe? **Me chame e peça seu orçamento.**
+
+<br/>
 
 <a href="https://github.com/bally018">
   <img src="https://img.shields.io/badge/GitHub-bally018-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<!-- Descomente e edite para adicionar suas redes:
+<!-- Descomente e coloque o seu usuário para aparecer o botão:
+<a href="https://discord.com/users/SEU_ID">
+  <img src="https://img.shields.io/badge/Discord-Pedir%20or%C3%A7amento-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 <a href="https://instagram.com/SEU_USUARIO">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://discord.com/users/SEU_ID">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 -->
 
